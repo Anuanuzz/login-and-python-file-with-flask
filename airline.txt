@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Login Page</title>
+</head>
+<body style="background-color : Plum;">
+<form action="/form_login" method="post">
+<h1 align="center">Login here</h1>
+    Username :
+    <input type="text" name="Username" placeholder="Enter the username"><br>
+    <br>
+    Password:
+    <input type="password" name="Password" placeholder="Enter the password"><br>
+    <br>
+    <input type="submit" value="Login"><br>
+</form>
+</body>
+</html>
